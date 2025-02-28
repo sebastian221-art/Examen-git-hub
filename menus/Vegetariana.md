@@ -17,3 +17,9 @@ La comida vegetariana se basa en ingredientes de origen vegetal, evitando carnes
 - Agua con gas.
 - malteada.
 - cerveza.
+## Consejos
+- Variedad de ingredientes: Incluye frutas, verduras, legumbres, cereales, granos, frutos secos y semillas.
+- Proteínas vegetales: Se usan alternativas como tofu, tempeh, lentejas, garbanzos, quinua y seitán para reemplazar las proteínas de la carne.
+- Cocina saludable: Los platos suelen ser ricos en fibra, vitaminas y minerales, con una menor cantidad de grasas saturadas.
+- Platos comunes: Ensaladas, sopas, guisos, curry de vegetales, hamburguesas vegetarianas, pasteles de verduras y platos con arroz o pasta.
+- Especias y hierbas: La comida vegetariana se caracteriza por el uso de hierbas y especias frescas para dar sabor, como albahaca, cúrcuma, jengibre y cilantro.
