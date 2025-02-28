@@ -14,3 +14,11 @@ La comida india es conocida por su variedad de sabores y especias intensas.
 - tee .
 - Agua con gas.
 - Limonada.
+
+## Consejos
+
+- Usa especias con moderación: Las especias son clave, pero asegúrate de no exagerar para no sobrecargar el plato.
+- Marina la carne: Para platos como el tandoori, marina la carne con yogur y especias para un mejor sabor y textura.
+- Cocina lentamente: Muchos platos, como los curries, mejoran si se cocinan a fuego lento, permitiendo que las especias se fusionen.
+- Equilibra los sabores: El dulce, ácido y picante son comunes. Usa yogur o crema para equilibrar el picante de los curries.
+- Acompañamientos: Acompaña los platos con pan naan o arroz basmati para balancear las intensas salsas.
