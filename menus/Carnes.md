@@ -10,3 +10,8 @@ Las comidas de carne se caracterizan por platos elaborados principalmente con di
 4. Carnes al horno: Carnes como el pollo, cerdo o res asadas con hierbas y especias.
 5. Tacos o fajitas: Carne (usualmente de res o pollo) sazonada y servida en tortillas.
 6. Cortes de carne a la parrilla: Como las costillas, hamburguesas o salchichas.
+
+## Bebidas Recomendadas
+- Vino tinto .
+- Agua con gas.
+- Limonada.
