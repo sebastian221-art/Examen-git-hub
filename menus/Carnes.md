@@ -15,3 +15,9 @@ Las comidas de carne se caracterizan por platos elaborados principalmente con di
 - Vino tinto .
 - Agua con gas.
 - Limonada.
+
+## Consejos
+- Selecciona carne de calidad: Elige cortes frescos y adecuados para el tipo de preparación que vas a hacer.
+- Marinar: Para carnes más duras, marina con hierbas, especias y ácidos (como vinagre o limón) para ablandar y dar sabor.
+- Cocina a la temperatura correcta: Evita cocinar en exceso. Usa un termómetro para obtener el punto deseado (rojo, término medio, bien hecho).
+- Deja reposar la carne: Después de cocinarla, deja que repose unos minutos para que los jugos se redistribuyan.
