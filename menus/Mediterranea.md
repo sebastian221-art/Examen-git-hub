@@ -18,3 +18,11 @@ La comida mediterránea es conocida por ser saludable, sabrosa y equilibrada, ba
 - Agua con gas.
 - malteada.
 - cerveza.
+
+## Consejos
+- Aceite de oliva: Es el principal ingrediente para cocinar y aderezar, siendo una fuente de grasas saludables.
+- Verduras y hortalizas: Las verduras, como tomates, berenjenas, pimientos, espinacas y calabacines, son esenciales en la dieta mediterránea.
+- Pescados y mariscos: El pescado (especialmente el azul como el salmón, atún y sardinas) y mariscos son comunes, siendo una fuente importante de proteínas.
+- Frutos secos y legumbres: Las almendras, nueces, garbanzos y lentejas son ingredientes frecuentes en ensaladas, guisos y platos principales.
+- Quesos y hierbas: El queso feta, el parmesano, el ricotta y hierbas como el orégano, albahaca y tomillo se usan para dar sabor.
+- Pan y pasta: El pan (especialmente de trigo integral) y la pasta son acompañamientos comunes, con platos como la pasta con salsa de tomate, aceite de oliva y hierbas.
