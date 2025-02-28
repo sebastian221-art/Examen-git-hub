@@ -11,3 +11,9 @@ La comida francesa es conocida por su sofisticación, técnicas culinarias refin
 - Cassoulet: Guiso de frijoles blancos con carne de cerdo, salchichas y, a veces, pato.
 - Bouillabaisse: Sopa de pescado originaria de la región de Provenza, preparada con una variedad de pescados y mariscos, y acompañada de salsa de ajo.
 - Filet Mignon: Filete de carne de res, generalmente servido con una salsa rica, como la de champiñones o mostaza.
+
+## Bebidas Recomendadas
+- Vino tinto .
+- Agua con gas.
+- malteada.
+- cerveza.
