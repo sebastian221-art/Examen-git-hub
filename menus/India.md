@@ -9,3 +9,8 @@ La comida india es conocida por su variedad de sabores y especias intensas.
 - Pan: El naan, roti y paratha son panes planos que acompañan muchos platos.
 - Vegetales y legumbres: Los vegetales, legumbres y arroz son ingredientes esenciales, con platos vegetarianos como el aloo gobi (papas con coliflor) y el    palak paneer (espinacas con queso).
 - Dulces: Postres como el gulab jamun (bolitas fritas en almíbar) y el kheer (pudín de arroz).
+
+## Bebidas Recomendadas
+- tee .
+- Agua con gas.
+- Limonada.
