@@ -12,3 +12,8 @@ Los postres son dulces o golosinas que se sirven al final de una comida.
 - Crème brûlée: Postre francés de crema con una capa de azúcar caramelizada por encima.
 - Tarta de manzana: Pastel hecho con manzanas, canela y masa crujiente.
 - Helado: Un postre congelado, disponible en muchos sabores como vainilla, fresa, chocolate, etc.
+
+## Bebidas Recomendadas
+- limonada.
+- Agua con gas.
+- malteada.
