@@ -16,3 +16,11 @@ La comida mexicana es rica, variada y llena de sabores intensos. Se caracteriza 
 - Agua con gas.
 - malteada.
 - cerveza.
+
+## Consejos
+
+- Usa ingredientes frescos: Los vegetales, hierbas como el cilantro y los chiles frescos son esenciales para obtener el mejor sabor.
+- Controla el picante: Ajusta la cantidad de chile según tu tolerancia al picante y siempre prueba las salsas antes de servir.
+- Tortillas caseras: Si puedes, prepara las tortillas de maíz frescas para una mejor textura y sabor en tacos y burritos.
+- Equilibra los sabores: La comida mexicana combina lo salado, ácido y picante. Usa limón y sal para resaltar los sabores de los platillos.
+- Acompañamientos: Los frijoles, arroz y salsas complementan muy bien los platos principales, no los omitas.
