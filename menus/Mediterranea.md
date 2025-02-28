@@ -12,3 +12,9 @@ La comida mediterránea es conocida por ser saludable, sabrosa y equilibrada, ba
 - Ratatouille: Un guiso francés de verduras (berenjenas, calabacines, pimientos, tomates) cocinadas con hierbas, perfecto como plato principal vegetariano.
 - Pasta con pesto: Un plato italiano de pasta acompañado de salsa pesto, hecha con albahaca, piñones, ajo, queso parmesano y aceite de oliva.
 - Ensalada griega: Aunque más común como acompañamiento, a veces se sirve como plato principal, especialmente si lleva un poco de pescado o pollo.
+
+## Bebidas Recomendadas
+- Vino tinto .
+- Agua con gas.
+- malteada.
+- cerveza.
