@@ -13,3 +13,6 @@ La cocina italiana es famosa por sus sabores frescos y auténticos, basados en i
 - Agua con gas.
 - Limoncello como digestivo.
 ​
+## Consejos
+- Usa ingredientes frescos para mejores resultados.
+- Acompaña con pan artesanal para una experiencia completa.
