@@ -11,3 +11,9 @@ La comida vegetariana se basa en ingredientes de origen vegetal, evitando carnes
 - Lasagna vegetariana: Pasta de lasaña rellena con una mezcla de espinacas, ricotta, champiñones, calabacín y salsa de tomate.
 - Tacos de vegetales: Tacos rellenos de verduras asadas como pimientos, calabacines, cebollas y guacamole.
 - Sopa de lentejas: Lentejas cocidas con zanahorias, apio, cebolla, tomate y especias para un plato reconfortante y saludable.
+
+## Bebidas Recomendadas
+- Vino tinto .
+- Agua con gas.
+- malteada.
+- cerveza.
