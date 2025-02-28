@@ -9,3 +9,9 @@ La comida japonesa es ligera, equilibrada y se centra en la frescura y la simpli
 - Salsas: La salsa de soja, wasabi, y mirin son comunes para dar sabor.
 - Platos cocidos: El ramen (sopa de fideos) y el tempura (mariscos o vegetales fritos) son ejemplos de platos cocidos.
 - Verduras y pescados: Se usan mucho los vegetales de temporada y pescados frescos, como el atún y el salmón.
+
+## Bebidas Recomendadas
+- Vino tinto .
+- Agua con gas.
+- malteada.
+- soju.
